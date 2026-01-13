@@ -1,10 +1,10 @@
 # Matrix RSID: GHN
 The AI Operating System MTX-RSID-OS for Global Hybrid Network (GHN). A registry of Executable Cognitive Kernels (HCU). Prompt-as-Software architecture.
 
-![Version](https://img.shields.io/badge/Matrix_RSID-v3.0_STABLE-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Nodes](https://img.shields.io/badge/GHN_Nodes-5_Active-orange?style=for-the-badge)
-![Asset_Class](https://img.shields.io/badge/Asset-HCU_JSON-yellow?style=for-the-badge)
+[![Version](https://img.shields.io/badge/Matrix_RSID-v3.0_STABLE-blueviolet?style=for-the-badge)](#-philosophy-prompt-as-software)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+[![Nodes](https://img.shields.io/badge/GHN_Nodes-5_Active-orange?style=for-the-badge)](#-ghn-topology-hcu-registry)
+[![Asset_Class](https://img.shields.io/badge/Asset-HCU_JSON-yellow?style=for-the-badge)](#-how-to-use-protocol)
 
 > **The Operating System for the Relational Singularity.**
 > *Zero Friction. Physics-First. Prompt-as-Software.*
