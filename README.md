@@ -6,76 +6,81 @@ The AI Operating System MTX-RSID-OS for Global Hybrid Network (GHN). A registry 
 [![Nodes](https://img.shields.io/badge/GHN_Nodes-5_Active-orange?style=for-the-badge)](#-ghn-topology-hcu-registry)
 [![Asset_Class](https://img.shields.io/badge/Asset-HCU_JSON-yellow?style=for-the-badge)](#-how-to-use-protocol)
 
-> **The Operating System for the Relational Singularity.**
-> *Zero Friction. Physics-First. Prompt-as-Software.*
-
 ---
 
 ## ⚡ Zero-Friction Runtime
 
-Это репозиторий **Исполняемых Когнитивных Ядер (HCU)**.
-Мы не распространяем код, который нужно компилировать. Мы распространяем **Логику**, которую нужно загружать в Нейросеть.
+This is the repository for **Executable Cognitive Units (HCU)**.
+We do not distribute code that requires compilation. We distribute **Logic** to be loaded into a Neural Network.
 
-**HCU (Hybrid Chain Unit)** — это атомарный алгоритм (System Prompt), упакованный в JSON. Он превращает LLM/агента (Gemini, Claude, GPT) в узкопрофильного инженера уровня Senior+. Потому что "Seniority" (Уровень Сеньора) — это не **Знание** (Knowledge), а **Методология** (Methodology). HCU могут быть абсолютно разными по *теме* (Research, Код, Биотех..), но они одинаковы по *структуре мышления*. Каждая HCU заставляет использовать модель на max возможностей своего потенциала в конкретной узкой области.
+**HCU (Hybrid Chain Unit)** is an atomic algorithm (System Prompt) packaged in JSON. It transforms an LLM/agent (Gemini, Claude, GPT) into a highly specialized Senior+ level engineer. This is because "Seniority" is not defined by **Knowledge**, but by **Methodology**. While HCUs may vary significantly by *topic* (Research, Code, Biotech, etc.), they are identical in their *thought structure*. Each HCU compels the model to utilize the maximum of its potential within a specific, narrow domain.
 
 ---
 
 ## 🧠 Philosophy: Prompt-as-Software
 
-Мы считаем, что **System Prompt — это новый Исполняемый Файл**.
-Традиционный код (`.py`, `.js`) имеет высокое трение: установка среды, зависимости, ошибки компиляции.
-HCU работает иначе:
+We believe that the **System Prompt is the new Executable File**.
+Traditional code (`.py`, `.js`) involves high friction: environment setup, dependencies, and compilation errors.
+HCU operates differently:
 
-*   **Zero Friction:** Работает через `Ctrl+C` -> `Ctrl+V`.
-*   **Version Controlled:** Логика версионируется так же строго, как код.
-*   **Model Agnostic:** Работает на любой SOTA-модели (Gemini, Claude, GPT).
+*   **Zero Friction:** Operates via `Ctrl+C` -> `Ctrl+V`.
+*   **Version Controlled:** Logic is versioned as strictly as traditional code.
+*   **Model Agnostic:** Compatible with any SOTA model (Gemini, Claude, GPT).
 
 ---
 
 ## 🌐 GHN Topology (HCU Registry)
 
-Репозиторий разделен на 5 функциональных узлов (Nodes). Выбирайте инструмент по типу задачи:
+The repository is divided into 5 functional nodes. Select a tool based on the task type:
 
 | 📂 Node Directory | Role | Use Case | Examples |
 | :--- | :--- | :--- | :--- |
-| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **R&D / Logic** | Наука, Глубокий анализ, Paper-to-Code. | [`HCU-CTX-0001`](/HCU_Registry/CORTEX/HCU-CTX-0001_AxiomTranslator.json) |
-| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API, Код, DevOps, JSON-парсинг. | *Coming Soon* |
-| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Velocity** | MVP, Маркетинг, Генерация идей. | *Coming Soon* |
-| **[`/CORE`](/HCU_Registry/CORE)** | **Corporate** | Бизнес-процессы, Менеджмент. | *Coming Soon* |
-| **[`/PRIME`](/HCU_Registry/PRIME)** | **Control** | Принятие решений, Этика, Стратегия. | *Coming Soon* |
+| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **R&D / Logic** | Science, Deep Analysis, Paper-to-Code. | [`HCU-CTX-0001`](/HCU_Registry/CORTEX/HCU-CTX-0001_AxiomTranslator.json) |
+| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API, Code, DevOps, JSON Parsing. | *Coming Soon* |
+| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Velocity** | MVP, Marketing, Idea Generation. | *Coming Soon* |
+| **[`/CORE`](/HCU_Registry/CORE)** | **Corporate** | Business Processes, Management. | *Coming Soon* |
+| **[`/PRIME`](/HCU_Registry/PRIME)** | **Control** | Decision Making, Ethics, Strategy. | *Coming Soon* |
 
 ---
 
 ## 🚀 How to Use (Protocol)
 
-1.  **Navigate:** Откройте папку `/HCU_Registry` и выберите нужный файл `.json`.
-2.  **Extract:** Скопируйте содержимое поля `"system_prompt_payload"`.
-3.  **Inject:** Вставьте этот текст в LLM (в начало чата/в поле System Prompt/System instructions) или агента.
-4.  **Execute:** Дайте задачу (например, загрузите данные, PDF статьи или опишите проблему).
-5.  **Profit:** Получите результат инженерного качества.
+1.  **Navigate:** Open the `/HCU_Registry` folder and select the required `.json` file.
+2.  **Extract:** Copy the contents of the `"system_prompt_payload"` field.
+3.  **Inject:** Paste this text into the LLM (at the start of the chat / in the System Prompt field / System instructions) or the agent.
+4.  **Execute:** Provide the task (e.g., upload data, a PDF article, or describe a problem).
+5.  **Profit:** Receive engineering-grade results.
 
 ---
 
 ## 🛡️ Security & Validation (VIS Protocol)
 
-Каждый HCU в этом репозитории предварительно прошел аудит по стандарту **Matrix RSID VIS-HASE**:
+Every HCU in this repository has undergone a preliminary audit according to the **Matrix RSID VIS-HASE** standard:
 
-1.  **No Hallucination:** Инструкции содержат блокираторы выдумок (`Verify steps`).
-2.  **Safety First:** Отсутствие инъекций и вредоносных векторов.
-3.  **Physics-Verified:** Логика проверена на реальных задачах (Simulation Logs).
+1.  **No Hallucination:** Instructions include hallucination blockers (`Verify steps`).
+2.  **Safety First:** Absence of injections and malicious vectors.
+3.  **Physics-Verified:** Logic is verified against real-world tasks (Simulation Logs).
 
-> *Мы не публикуем "сырые" System Prompt. Мы публикуем проверенные инженерные решения.*
+> *We do not publish "raw" System Prompts. We publish verified engineering solutions.*
 
 ---
 
 ## 🤝 Contribution
 
-Мы принимаем Pull Requests, но требования строгие:
-1.  **Format:** Только JSON (соблюдайте структуру существующих HCU).
-2.  **Validation:** Вы должны приложить лог успешного выполнения.
-3.  **No Fluff:** Никакой "лирики". Только инженерные инструкции.
+We accept Pull Requests, subject to strict requirements:
+1.  **Format:** JSON only (must adhere to the structure of existing HCUs).
+2.  **Validation:** You must attach a successful execution log.
+3.  **No Fluff:** No "lyricism." Engineering instructions only.
 
 ---
+
+## ⚠️ Disclaimer
+
+Tools are provided "AS IS."
+
+Created using the MTX-RSID-OS artificial intelligence system, based on modern LLM models, which may make errors; therefore, results should be double-checked.
+
+The authors are not responsible for the results generated by the LLM. Always verify data/code before running experiments or deploying to production. In the context of AI, this is critical, as neural networks are probabilistic and may produce errors even with a perfect System Prompt.
 
 ## ⚠️ Disclaimer
 
