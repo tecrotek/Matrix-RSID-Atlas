@@ -8,38 +8,50 @@
 
 ---
 
-## ⚡ Zero-Friction Runtime
+## ⚡ Definition: The Executable Ledger
 
-This is the repository for **Executable Cognitive Units (HCU)**.
-We do not distribute code that requires compilation. We distribute **Logic** to be loaded into a Neural Network.
+**Atlas of Gaps** is a dynamic topology of verified market inefficiencies ("Gaps") bridged via **Hybrid Chain Units (HCU)**.
 
-**HCU (Hybrid Chain Unit)** is an atomic algorithm (System Prompt) packaged in JSON. It transforms an LLM/agent (Gemini, Claude, GPT) into a highly specialized Senior+ level engineer. This is because "Seniority" is not defined by **Knowledge**, but by **Methodology**. While HCUs may vary significantly by *topic* (Research, Code, Biotech, etc.), they are identical in their *thought structure*. Each HCU compels the model to utilize the maximum of its potential within a specific, narrow domain.
+This is not a library of system prompts. This is a **Registry of Executable Cognitive Cores**. Unlike static code, an HCU is a "live" algorithm (System_Prompt_Payload) that transforms an LLM/agent (Claude, GPT, Gemini) into a highly specialized Senior+ level engineer.
+
+**Core Value Proposition:**
+1.  **High-Frequency Arbitrage:** Instant elimination of friction in processes (R&D, DevOps, Business).
+2.  **Zero-CapEx:** Implementation requires no servers, installations, or budget. Simply `Ctrl+C` (copy) -> `Ctrl+V` (paste).
+3.  **Standardization:** A unified interaction protocol between Human and AI (Matrix RSID Protocol).
 
 ---
 
 ## 🧠 Philosophy: Prompt-as-Software
 
-We believe that the **System Prompt is the new Executable File**.
-Traditional code (`.py`, `.js`) involves high friction: environment setup, dependencies, and compilation errors.
-HCU operates differently:
+We believe that: **The System Prompt is the new Binary Executable.**
+Traditional software (`.py`, `.js`) carries high friction: dependencies, environments, and compilation bugs. HCU operates on the physics of natural language:
 
-*   **Zero Friction:** Operates via `Ctrl+C` -> `Ctrl+V`.
-*   **Version Controlled:** Logic is versioned as strictly as traditional code.
-*   **Model Agnostic:** Compatible with any SOTA model (Gemini, Claude, GPT).
+*   **Zero Friction:** Time from "Download" to "Result" is < minutes/seconds.
+*   **Version Controlled:** Logic is versioned as strictly as the kernel code of modern operating systems.
+*   **Model Agnostic:** Adapted for SOTA models (Context Window > 128k+).
 
 ---
 
 ## 🌐 GHN Topology (HCU Registry)
 
-The repository is divided into 5 functional nodes. Select a tool based on the task type:
+The repository is structured into 5 functional nodes of the Global Hybrid Network (GHN). Tools are selected based on the physics of the task:
 
-| 📂 Node Directory | Role | Use Case | Examples |
+```text
+/HCU_Registry
+├── /CORTEX (Logic Layer) ....... [Science, Math, Deep Reasoning]
+├── /GRID   (Infra Layer) ....... [API, DevOps, Code Generation]
+├── /NEXUS  (Velocity Layer) .... [MVP, Marketing, Traffic]
+├── /CORE   (Resource Layer) .... [Business, Management, Finance]
+└── /PRIME  (Control Layer) ..... [Strategy, Ethics, Governance]
+```
+
+| 📂 Node Directory | Role | Use Case | Asset Example |
 | :--- | :--- | :--- | :--- |
-| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **R&D / Logic** | Science, Deep Analysis, Paper-to-Code. | [`HCU-CTX-0001`](/HCU_Registry/CORTEX/HCU-CTX-0001_AxiomTranslator.json) |
-| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API, Code, DevOps, JSON Parsing. | *Coming Soon* |
-| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Velocity** | MVP, Marketing, Idea Generation. | *Coming Soon* |
-| **[`/CORE`](/HCU_Registry/CORE)** | **Corporate** | Business Processes, Management. | *Coming Soon* |
-| **[`/PRIME`](/HCU_Registry/PRIME)** | **Control** | Decision Making, Ethics, Strategy. | *Coming Soon* |
+| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **R&D / Logic** | Paper-to-Code, Data Analysis, Complex Logic. | [`HCU-CTX-..`](/HCU_Registry/CORTEX) |
+| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API Wrappers, Docker, JSON Parsing. | [`HCU-GRID-..`] |
+| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Velocity** | Viral Content, MVP Launch, Sales. | [`HCU-NEXUS-..`] |
+| **[`/CORE`](/HCU_Registry/CORE)** | **Corporate** | Unit Economics, Process Optimization. | [`HCU-CORE-..`] |
+| **[`/PRIME`](/HCU_Registry/PRIME)** | **Control** | Strategic Planning, Audit. | [`HCU-PRIME-..`] |
 
 ---
 
@@ -47,37 +59,37 @@ The repository is divided into 5 functional nodes. Select a tool based on the ta
 
 1.  **Navigate:** Open the `/HCU_Registry` folder and select the required `.json` file.
 2.  **Extract:** Copy the contents of the `"system_prompt_payload"` field.
-3.  **Inject:** Paste this text into the LLM (at the start of the chat / in the System Prompt field / System instructions) or the agent.
-4.  **Execute:** Provide the task (e.g., upload data, a PDF article, or describe a problem).
-5.  **Profit:** Receive engineering-grade results.
+3.  **Inject:** Paste the text into the beginning of the chat or the System Instructions of your LLM/Agent (Gemini, Claude, ChatGPT).
+4.  **Execute:** Provide the "raw" input signal (PDF, Task, Data).
+5.  **Profit:** Receive an engineering-grade result.
 
 ---
 
 ## 🛡️ Security & Validation (VIS Protocol)
 
-Every HCU in this repository has undergone a preliminary audit according to the **Matrix RSID VIS-HASE** standard:
+Every HCU has been audited according to the **Matrix RSID VIS-HASE** standard:
 
-1.  **No Hallucination:** Instructions include hallucination blockers (`Verify steps`).
-2.  **Safety First:** Absence of injections and malicious vectors.
-3.  **Physics-Verified:** Logic is verified against real-world tasks (Simulation Logs).
+*   ✅ **No Hallucination:** Built-in `Self-Correction` and `Sanity Check` mechanisms.
+*   ✅ **Safety First:** Blocking of malicious vectors and injections.
+*   ✅ **Physics-Verified:** Logic verified against real-world cases (Simulation Logs).
 
-> *We do not publish "raw" System Prompts. We publish verified engineering solutions.*
+> *We do not publish "raw" system prompts. We publish verified engineering solutions.*
 
 ---
 
 ## 🤝 Contribution
 
-We accept Pull Requests, subject to strict requirements:
-1.  **Format:** JSON only (must adhere to the structure of existing HCUs).
-2.  **Validation:** You must attach a successful execution log.
-3.  **No Fluff:** No "lyricism." Engineering instructions only.
+We accept Pull Requests to expand the Atlas. HCU requirements:
+1.  **Format:** Strict JSON (see the `HCU_TEMPLATE.json` template).
+2.  **Validation:** A successful execution log (Evidence) is mandatory.
+3.  **No Fluff:** No lyricism. Only algorithmic instructions.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Engineering Disclaimer
 
-Tools are provided "(AS IS)."
+Tools are provided "AS IS".
 
-Created using the MTX-RSID-OS artificial intelligence system, based on modern LLM models, which may make errors; therefore, results should be double-checked.
+Created using the **MTX-RSID-OS** artificial intelligence system, based on modern LLM models.
 
-The authors are not responsible for the results generated by the LLM. Always verify data/code before running experiments or deploying to production. In the context of AI, this is critical, as neural networks are probabilistic and may produce errors even with a perfect System Prompt.
+The stochastic nature of the models means that the output is not 100% deterministic. The authors are not responsible for the results of LLM generation. **The operator must verify critical data before production implementation.** In the context of AI, this is critical, as models are probabilistic and may produce an error even with an ideal System Prompt.
