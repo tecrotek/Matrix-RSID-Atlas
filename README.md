@@ -48,7 +48,7 @@ The repository is structured into 5 functional nodes of the Global Hybrid Networ
 | 📂 Node Directory | Role | Use Case | Asset Example |
 | :--- | :--- | :--- | :--- |
 | **[`/CORTEX`](/HCU_Registry/CORTEX)** | **R&D / Logic** | Paper-to-Code, Data Analysis, Complex Logic. | [`HCU-CTX-..`](/HCU_Registry/CORTEX) |
-| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API Wrappers, Docker, JSON Parsing. | [`HCU-GRID-..`] |
+| **[`/GRID`](/HCU_Registry/GRID)** | **Infrastructure** | API Wrappers, Docker, JSON Parsing. | [`HCU-GRID-..`] *Coming Soon* |
 | **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Velocity** | Viral Content, MVP Launch, Sales. | [`HCU-NEXUS-..`] |
 | **[`/CORE`](/HCU_Registry/CORE)** | **Corporate** | Unit Economics, Process Optimization. | [`HCU-CORE-..`] |
 | **[`/PRIME`](/HCU_Registry/PRIME)** | **Control** | Strategic Planning, Audit. | [`HCU-PRIME-..`] |
