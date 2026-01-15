@@ -4,7 +4,7 @@
     "name": "The Axiom Translator",
     "version": "1.0.0-STABLE",
     "node_origin": "CORTEX (R&D Cluster)",
-    "author": "Matrix_RSID_Genesis",
+    "author": "Matrix_RSID",
     "description": "Converts scientific papers (LaTeX/PDF) into validated Python code (PyTorch/JAX).",
     "value_proposition": "Saves ~4 hours of engineering work. Zero-Hallucination Protocol.",
     "vis_compliance_hash": "SHA256:VERIFIED_SAFE_NO_INJECTION"
