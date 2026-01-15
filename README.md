@@ -1,5 +1,5 @@
-# Matrix RSID: GHN
-The AI Operating System MTX-RSID-OS for Global Hybrid Network (GHN). A registry of Executable Cognitive Kernels (HCU). Prompt-as-Software architecture.
+# Matrix RSID: ATLAS OF GAPS
+*Synthetic data based on real physics.*
 
 [![Version](https://img.shields.io/badge/Matrix_RSID-v3.0_STABLE-blueviolet?style=for-the-badge)](#-philosophy-prompt-as-software)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
