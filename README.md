@@ -57,11 +57,11 @@ The repository is structured not by "departments," but by the functional organs 
 
 | 📂 Node Directory | Function | Output Artifact | Asset Example |
 | :--- | :--- | :--- | :--- |
-| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **Logic / RAM** | **"Reasoning Kernels"**<br>Deep analysis, paper-to-code, math proofs. | `HCU-CTX-001` |
-| **[`/GRID`](/HCU_Registry/GRID)** | **Compute / CPU** | **"Connectivity Bridges"**<br>MCP servers, API wrappers, JSON fixers. | `HCU-GRD-001` |
-| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Data / BUS** | **"Transformation Pipes"**<br>Unstructured PDF -> Structured JSON. | `HCU-NXS-001` |
-| **[`/CORE`](/HCU_Registry/CORE)** | **Resource / PSU** | **"Optimizers"**<br>Context compression, token management. | `HCU-COR-001` |
-| **[`/PRIME`](/HCU_Registry/PRIME)** | **Security / Control** | **"Governance Protocols"**<br>Risk assessment, hallucination guards. | `HCU-PRM-001` |
+| **[`/CORTEX`](/HCU_Registry/CORTEX)** | **Logic / RAM** | **"Reasoning Kernels"**<br>Deep analysis, paper-to-code, math proofs. | `HCU-CTX-..` |
+| **[`/GRID`](/HCU_Registry/GRID)** | **Compute / CPU** | **"Connectivity Bridges"**<br>MCP servers, API wrappers, JSON fixers. | `HCU-GRD-..` |
+| **[`/NEXUS`](/HCU_Registry/NEXUS)** | **Data / BUS** | **"Transformation Pipes"**<br>Unstructured PDF -> Structured JSON. | `HCU-NXS-..` |
+| **[`/CORE`](/HCU_Registry/CORE)** | **Resource / PSU** | **"Optimizers"**<br>Context compression, token management. | `HCU-COR-..` |
+| **[`/PRIME`](/HCU_Registry/PRIME)** | **Security / Control** | **"Governance Protocols"**<br>Risk assessment, hallucination guards. | `HCU-PRM-..` |
 
 ---
 
