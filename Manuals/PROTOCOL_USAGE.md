@@ -36,4 +36,4 @@ We do not write code from scratch. We activate pre-configured "Cores."
 | Poor formatting | Underpowered model | Switch to a more capable LLM or agent. |
 
 ---
-*Matrix RSID // Atlas of Gap*
+*Matrix RSID // Atlas > Protocol: HCU Activation Manual*
