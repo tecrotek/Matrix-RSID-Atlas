@@ -1,6 +1,6 @@
 # Matrix RSID: Atlas of Connectivity
 *Synthetic data based on real physics.*
-*The AI Operating System for solving the stochastic-deterministic gap (SDG) problem*
+*The AI Operating System for solving the stochastic-deterministic gap (SDG) problem.*
 
 [![Version](https://img.shields.io/badge/Matrix_RSID-v5.0_ASI--NATIVE-blueviolet?style=for-the-badge)](#-philosophy-the-missing-abstraction-layer)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
