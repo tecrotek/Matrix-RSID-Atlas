@@ -41,14 +41,16 @@ It strips away "human noise" from the input, leaving only the essential core: fa
 
 ---
 
-## 2. ASSET VALUATION
-*Objective: Calculate the objective economic value of this logic block.*
+## 2. ASSET VALUATION (ESTIMATED)
+*Objective: Quantify the potential resource savings (Time & Compute).*
 
-| Metric | Value | Formula |
+| Metric | Value | Rationale (Formula) |
 | :--- | :--- | :--- |
-| **Engineering Time Saved** | **$200** | 2.0 Hours (Prompt Engineering & Testing) * $100/hr |
-| **Scalability Factor** | **$500** | 50 (Universal Utility Score) * $10 |
-| **TOTAL ASSET VALUE** | **$700 USD** | **Base + Scale** |
+| **Dev Time Saved** | **$200** | ~2.0 Hours of Senior Dev work (Design + Test) @ $100/hr |
+| **Token Efficiency** | **High** | Reduces context load by ~40% (Recurring savings) |
+| **TOTAL UTILITY** | **~$200+** | **One-time implementation savings** |
+
+> *Note: Valuation is a heuristic estimate based on average US Senior Engineer rates ($100-150/hr). Actual value depends on deployment frequency.*
 
 ---
 
